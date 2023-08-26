@@ -27,4 +27,4 @@ If you use PlanarTrack for your research, please consider giving it a star :star
 
 ## Acknowledgment
 
-This toolkit is developed based on [LaSOT](https://github.com/HengLan/LaSOT_Evaluation_Toolkit) and [POT-210](https://www3.cs.stonybrook.edu/~hling/data/POT-210/planar_benchmark.html). Thanks!
+This toolkit is developed based on [LaSOT](https://github.com/HengLan/LaSOT_Evaluation_Toolkit) and [POT-210](https://www3.cs.stonybrook.edu/~hling/data/POT-210/planar_benchmark.html). Thanks for sharing their codes.
