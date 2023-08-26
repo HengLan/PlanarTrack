@@ -8,4 +8,4 @@
 ## Requirements
 
 - Download the repository, and unzip it to your computer
-- Download the annotations ([GoogleDrive](https://drive.google.com/file/d/1nn_vzy3TKiK0XokGOVFb7pd5RLk7FTGS/view?usp=sharing)) or [OneDrive](https://1drv.ms/u/s!AiNXDMvtaw5JjhHD48MYDWpKT_oJ?e=wduAFp)) of PlanarTrack, and unzip it to folder `PlanarTrack/annotation/`
+- Download the annotations ( [GoogleDrive](https://drive.google.com/file/d/1nn_vzy3TKiK0XokGOVFb7pd5RLk7FTGS/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!AiNXDMvtaw5JjhHD48MYDWpKT_oJ?e=wduAFp) ) of PlanarTrack, and unzip it to folder `PlanarTrack/annotation/`
