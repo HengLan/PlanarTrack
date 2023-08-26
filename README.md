@@ -7,13 +7,13 @@
 
 ## Usage
 
-- ⬇️ Download the repository, and unzip it to your computer
-- ⬇️ Download the annotations ([GoogleDrive](https://drive.google.com/file/d/1nn_vzy3TKiK0XokGOVFb7pd5RLk7FTGS/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!AiNXDMvtaw5JjhHD48MYDWpKT_oJ?e=wduAFp)) of PlanarTrack, and unzip it to folder `PlanarTrack/annotation/`
-- ⬇️ Download the tracking result file ([GoogleDrive](https://drive.google.com/file/d/1nfrzF302yfdH8tzS5ujs4u4JGikcVvxX/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!AiNXDMvtaw5JjhKFNwTS7qLgMqlA?e=WOOPDh)) of evaluated trackers, and unzip it to folder `PlanarTrack/tracking_result/`
+- 👉 Download the repository, and unzip it to your computer
+- 👉 Download the annotations ([GoogleDrive](https://drive.google.com/file/d/1nn_vzy3TKiK0XokGOVFb7pd5RLk7FTGS/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!AiNXDMvtaw5JjhHD48MYDWpKT_oJ?e=wduAFp)) of PlanarTrack, and unzip it to folder `PlanarTrack/annotation/`
+- 👉 Download the tracking result file ([GoogleDrive](https://drive.google.com/file/d/1nfrzF302yfdH8tzS5ujs4u4JGikcVvxX/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!AiNXDMvtaw5JjhKFNwTS7qLgMqlA?e=WOOPDh)) of evaluated trackers, and unzip it to folder `PlanarTrack/tracking_result/`
 - 🏃 Run `RunEvaluation.m` in Matlab, and the plots will be saved in `PlanarTrack/plots/`
 
 ## Citing PlanarTrack
-If you use PlanarTrack for your research, please consider giving it a star :star: and citing it:
+🙏 If you use PlanarTrack for your research, please consider giving it a star :star: and citing it:
 
 ```
 @inproceedings{liu2023planartrack,
@@ -27,4 +27,4 @@ If you use PlanarTrack for your research, please consider giving it a star :star
 
 ## Acknowledgment
 
-We would like to thank [LaSOT](https://github.com/HengLan/LaSOT_Evaluation_Toolkit) and [POT-210](https://www3.cs.stonybrook.edu/~hling/data/POT-210/planar_benchmark.html) for sharing their codes.
+🌹 We would like to thank [LaSOT](https://github.com/HengLan/LaSOT_Evaluation_Toolkit) and [POT-210](https://www3.cs.stonybrook.edu/~hling/data/POT-210/planar_benchmark.html) for sharing their codes.
