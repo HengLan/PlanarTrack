@@ -4,3 +4,7 @@
 [[`Paper`](https://arxiv.org/abs/2303.07625)] [[`Website`](https://hengfan2010.github.io/projects/PlanarTrack/)] [[`Benchmark-OneDrive (~107G)`](https://1drv.ms/u/s!AiNXDMvtaw5Jjg8Yjusmnybv3Slo?e=Fi0HS5)]
 
 ![PlanarTrack](https://github.com/HengLan/PlanarTrack/blob/main/asset/planar.png)
+
+## Requirements
+
+- Download the repository, unzip it to your computer
