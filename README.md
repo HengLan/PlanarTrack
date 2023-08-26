@@ -11,3 +11,16 @@
 - Download the annotations ([GoogleDrive](https://drive.google.com/file/d/1nn_vzy3TKiK0XokGOVFb7pd5RLk7FTGS/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!AiNXDMvtaw5JjhHD48MYDWpKT_oJ?e=wduAFp)) of PlanarTrack, and unzip it to folder `PlanarTrack/annotation/`
 - Download the tracking result file ([GoogleDrive](https://drive.google.com/file/d/1nfrzF302yfdH8tzS5ujs4u4JGikcVvxX/view?usp=sharing) or [OneDrive](https://1drv.ms/u/s!AiNXDMvtaw5JjhKFNwTS7qLgMqlA?e=WOOPDh)) of evaluated trackers, and unzip it to folder `PlanarTrack/tracking_result/`
 - Run `RunEvaluation.m` in Matlab, and the plots will be saved in `PlanarTrack/plots/`
+
+## Citing PlanarTrack
+If you use PlanarTrack for your research, please consider giving it a star :star: and citing it:
+
+```
+@inproceedings{liu2023planartrack,
+        title={PlanarTrack: A Large-scale Challenging Benchmark for Planar Object Tracking},
+        author={Liu, Xinran and Liu, Xiaoqiong and Yi, Ziruo and Zhou, Xin and Le, Thanh and
+        Zhang, Libo and Huang, Yan and Yang, Qing and Fan, Heng},
+        booktitle={ICCV},
+        year={2023}
+}
+```
